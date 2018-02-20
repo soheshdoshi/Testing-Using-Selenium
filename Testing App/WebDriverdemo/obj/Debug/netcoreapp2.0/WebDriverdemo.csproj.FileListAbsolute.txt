@@ -1,0 +1,10 @@
+C:\Users\sohesh\source\repos\WebDriverdemo\WebDriverdemo\bin\Debug\netcoreapp2.0\WebDriverdemo.deps.json
+C:\Users\sohesh\source\repos\WebDriverdemo\WebDriverdemo\bin\Debug\netcoreapp2.0\WebDriverdemo.runtimeconfig.json
+C:\Users\sohesh\source\repos\WebDriverdemo\WebDriverdemo\bin\Debug\netcoreapp2.0\WebDriverdemo.runtimeconfig.dev.json
+C:\Users\sohesh\source\repos\WebDriverdemo\WebDriverdemo\bin\Debug\netcoreapp2.0\WebDriverdemo.dll
+C:\Users\sohesh\source\repos\WebDriverdemo\WebDriverdemo\bin\Debug\netcoreapp2.0\WebDriverdemo.pdb
+C:\Users\sohesh\source\repos\WebDriverdemo\WebDriverdemo\obj\Debug\netcoreapp2.0\WebDriverdemo.csproj.CoreCompileInputs.cache
+C:\Users\sohesh\source\repos\WebDriverdemo\WebDriverdemo\obj\Debug\netcoreapp2.0\WebDriverdemo.AssemblyInfoInputs.cache
+C:\Users\sohesh\source\repos\WebDriverdemo\WebDriverdemo\obj\Debug\netcoreapp2.0\WebDriverdemo.AssemblyInfo.cs
+C:\Users\sohesh\source\repos\WebDriverdemo\WebDriverdemo\obj\Debug\netcoreapp2.0\WebDriverdemo.dll
+C:\Users\sohesh\source\repos\WebDriverdemo\WebDriverdemo\obj\Debug\netcoreapp2.0\WebDriverdemo.pdb
